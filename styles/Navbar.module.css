@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.navBg{
+    background-color: rgb(27, 31, 31);
+    height: 80px;
+}
+.brandName{
+    color: #83b5c4 !important;
+    font-weight: 600;
+}
+
+.roundSearch{
+    background-color: rgb(111, 173, 184);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 7px solid rgb(5, 116, 136) !important;
+}
+
+.roundSearch:hover{
+    background-color:rgb(85, 147, 158);
+    transform: scale(1.14);
+}
+
+.searchIcon{
+    font-size: 40px;
+}
